@@ -1,0 +1,2165 @@
+[
+  {
+    "name": "Faf du Plessis(c)",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Sunil Narine",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Sunil Narine",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Rajat Patidar",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Harshit Rana",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "A fast bowler from Delhi, Harshit Rana is among the modern breed of players who made their IPL debut before their senior domestic debut. In his case, it was thanks to Kolkata Knight Riders' scouting system. With height, pace, hit-the-deck skills and clever variations to his credit, Harshit was fast-tracked into the India squad in July 2024, after having won the IPL with KKR.",
+    "input": {}
+  },
+  {
+    "name": "Anukul Roy",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Venkatesh Iyer",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "A loose-limbed and tall pace-bowling allrounder, Venkatesh Iyer was briefly a much sought-after player in white-ball cricket for India. He had shone with both and ball as India searched for Hardik Pandya's back-up in the lead-up to the 2021 and 2022 T20 World Cups.",
+    "input": {}
+  },
+  {
+    "name": "Virat Kohli",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Alzarri Joseph",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Tall fast bowler Alzarri Joseph started out as a legspinner in his backyard in Antigua before his height marked him out for a different style of bowling. In his teens he gained a reputation as one of the fastest bowlers on the school circuit, which carried over into the 2016 Under-19 World Cup, where he bowled the competition's fastest delivery, a 147kph zinger that broke Zimbabwe batter Brendan Sly's stumps. Joseph would finish as West Indies' highest wicket-taker of the tournament, with 13 wickets from six games at an economy of 3.31.",
+    "input": {}
+  },
+  {
+    "name": "Anuj Rawat†",
+    "team": "RCB",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Andre Russell",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Phil Salt†",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Phil Salt's fearless ball-striking at the top of the Sussex order earned him attention from across the global T20 circuit and a maiden England call-up in 2019, though he was made to wait until 2021 for his debut when he performed a passable impression of Jason Roy in the Covid-hit ODI series against Pakistan.",
+    "input": {}
+  },
+  {
+    "name": "Glenn Maxwell",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "One of the fastest scorers in world cricket, Glenn Maxwell has lit up the limited-overs formats. His ability to make unconventional shots - reverse sweeps and pulls, for example - appear routine makes it hard to set fields to cover all of his scoring areas. Maxwell's audacity comes with risk, and he can exasperate as well as exhilarate, but at his best he can change a game in moments. Also a handy offspinner and outstanding fielder, Maxwell offers an impressive package in one-day and T20 cricket when things click. ",
+    "input": {}
+  },
+  {
+    "name": "Vijaykumar Vyshak",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Mitchell Starc",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Varun Chakravarthy",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Shreyas Iyer(c)",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak Googly",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Cameron Green",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Cameron Green was earmarked as an international cricket from very early. Contracted to Western Australia as a schoolboy, he took 5 for 24 on first-class debut against Tasmania in February 2017 as a 17-year-old. He was selected initially for his bowling given his 200cm frame and his ability to deliver fast outswing but was plagued by stress fractures. However, throughout his junior days with Subiaco-Floreat and WA's junior teams his technically sound batting and an unquenchable thirst for scoring runs saw him emerge as a genuine allrounder of rare ability. ",
+    "input": {}
+  },
+  {
+    "name": "Dinesh Karthik",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Not many would forget the sight of Dinesh Karthik in India colours, horizontal on the ground, as he stumped Michael Vaughan in 2004. It was his first dismissal as a wicketkeeper for India, but his international career never really took off. Around the time he began churning out consistent runs in domestic cricket, India had MS Dhoni at the helm and behind the stumps, so there was very little Karthik could do. A man who was an integral part of a Test series victory over England in 2007, who showed he could open the batting in spicy conditions, just could not capitalise on his second chances. ",
+    "input": {}
+  },
+  {
+    "name": "Mayank Dagar",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Mohammed Siraj",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Mohammed Siraj's rise as a seamer was remarkably swift. The son of an autorickshaw driver in Hyderabad, he only began playing the game in class seven. It was in 2015 that he first bowled with a cricket ball. In 2017, he bagged an IPL contract worth INR 2.6 crore. Months later, he was wearing an India shirt and bowling in a T20 international against New Zealand. ",
+    "input": {}
+  },
+  {
+    "name": "Rinku Singh",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "A middle-order batter and an excellent outfielder, Rinku Singh stunned everyone when he hit Yash Dayal for five consecutive sixes with Kolkata Knight Riders needing 28 from five balls against Gujarat Titans in IPL 2023.",
+    "input": {}
+  },
+  {
+    "name": "Yash Dayal",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Cameron Green",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Cameron Green was earmarked as an international cricket from very early. Contracted to Western Australia as a schoolboy, he took 5 for 24 on first-class debut against Tasmania in February 2017 as a 17-year-old. He was selected initially for his bowling given his 200cm frame and his ability to deliver fast outswing but was plagued by stress fractures. However, throughout his junior days with Subiaco-Floreat and WA's junior teams his technically sound batting and an unquenchable thirst for scoring runs saw him emerge as a genuine allrounder of rare ability. ",
+    "input": {}
+  },
+  {
+    "name": "Sam Curran(c)",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Sai Kishore",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Harshal Patel",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "M Shahrukh Khan",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Jitesh Sharma†",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Shashank Singh",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium, Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Shashank Singh, a right-hand batter and right-arm offspinner, shot into the limelight after hitting an unbeaten 29-ball 61 for Punjab Kings against Gujarat Titans in IPL 2024.",
+    "input": {}
+  },
+  {
+    "name": "Wriddhiman Saha†",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Shubman Gill(c)",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Opening Batter",
+    "input": {}
+  },
+  {
+    "name": "Rashid Khan",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Sai Sudharsan",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Top order Batter",
+    "description": "A tall left-hand batter, Sai Sudharsan is a post-Covid era emerging star from Tamil Nadu. He was a breakout talent from the Tamil Nadu Premier League [TNPL] who was fast-tracked into Tamil Nadu's sides across formats and is also remembered for his 47-ball 96 in the IPL 2023 final against CSK.",
+    "input": {}
+  },
+  {
+    "name": "Ashutosh Sharma",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Kagiso Rabada",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Rashid Khan",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "David Miller",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Rahul Tewatia",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Sandeep Warrier",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Noor Ahmad",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Harpreet Singh",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batter",
+    "description": "A left-handed batting allrounder, Harpreet Singh hails from a small town in interior Madhya Pradesh called Dalli Rajhara. He scored 709 runs in seven matches in the Cooch Behar Trophy in 2008-09, which won him the award for the best Under-19 cricketer of the season. He was named vice-captain for the U-19 tour of Australia in 2009, where he scored a total of 262 runs at 52.40. He made his Ranji Trohy debut for MP later that year and was named in the U-19 squad for the World Cup in New Zealand.  Cricinfo Staff January 2010",
+    "input": {}
+  },
+  {
+    "name": "Rilee Rossouw",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "A stylish top-order player with an elegant and authoritative drive, Rilee Rossouw has been a high-impact batter for South Africa in limited-overs cricket.  ",
+    "input": {}
+  },
+  {
+    "name": "M Shahrukh Khan",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Liam Livingstone",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Liam Livingstone broke into the spotlight when he made a T20I hundred off 42 balls against Pakistan in 2021 - the fastest century in the format by an England player. By then he had a reputation in English cricket as a batter equipped with plenty of raw power and the ability to dismantle good bowling attacks, a sharp outfielder, and a useful spinner who could turn the ball either way.",
+    "input": {}
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Arshdeep Singh",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Harshal Patel",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Mohit Sharma",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "Although Mohit Sharma burst onto the domestic scene during Haryana's best Ranji Trophy season in 2011-12, he made his own headlines a year later. In his debut season Mohit had played just three matches when Haryana made an impressive run to the semi-finals, but during the 2012-13 Ranji season he emerged as one of the best fast bowlers in the country, finishing as the fifth-highest wicket-taker. Despite that, not many had seen or known about the youngster from Faridabad, who had been on the fringes ever since he rose through age-group cricket camps organised by the Haryana Cricket Association. ",
+    "input": {}
+  },
+  {
+    "name": "Liam Livingstone",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Liam Livingstone broke into the spotlight when he made a T20I hundred off 42 balls against Pakistan in 2021 - the fastest century in the format by an England player. By then he had a reputation in English cricket as a batter equipped with plenty of raw power and the ability to dismantle good bowling attacks, a sharp outfielder, and a useful spinner who could turn the ball either way.",
+    "input": {}
+  },
+  {
+    "name": "Harpreet Brar",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Kagiso Rabada",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Sam Curran",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Sai Kishore",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Umesh Yadav",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Less than two seasons after fast bowler Umesh Yadav first played with a leather ball, he was bowling against the likes of Rahul Dravid and VVS Laxman in the Duleep Trophy. What makes his ascent even more remarkable is that he represents unglamorous Vidarbha in the Plate League of the Ranji Trophy. Yadav is the son of a coal-mine worker and was aiming to become a policeman. He only started considering a career in cricket as a 19-year-old, an age by which the best young Indian cricketers are in the running for a national cap. ",
+    "input": {}
+  },
+  {
+    "name": "Jonny Bairstow",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Darshan Nalkande",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Sikandar Raza",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Sikandar Raza's story isn't that of your everyday international cricketer. He is not a teenage prodigy, nor is he someone who had a burning ambition to play for his country. He journeyed through from his adolescence to adulthood and stumbled upon the sport he sometimes played as a child, only to discover he is quite good at it.",
+    "input": {}
+  },
+  {
+    "name": "Sikandar Raza",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Sikandar Raza's story isn't that of your everyday international cricketer. He is not a teenage prodigy, nor is he someone who had a burning ambition to play for his country. He journeyed through from his adolescence to adulthood and stumbled upon the sport he sometimes played as a child, only to discover he is quite good at it.",
+    "input": {}
+  },
+  {
+    "name": "Vijay Shankar",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Shikhar Dhawan(c)",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Opening Batter",
+    "input": {}
+  },
+  {
+    "name": "Sanju Samson(c)†",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Tanush Kotian",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Kuldeep Sen",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "A first-class debut in late 2018, an IPL debut in 2022 and an India cap in December 2022. A fast bowler from Madhya Pradesh, Kuldeep Sen was fast-tracked through the domestic circuit and IPL into the India set-up for his ability to crank the pace above 140kmph and pick wickets regularly. His career, though has been hit by injuries.",
+    "input": {}
+  },
+  {
+    "name": "Rovman Powell",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Middle order Batter",
+    "description": "A middle-order batter who bowls occasional medium pace, Rovman Powell has been a semi-regular presence in West Indies' white-ball squads from the mid-2010s without quite nailing down a spot. ",
+    "input": {}
+  },
+  {
+    "name": "Avesh Khan",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A tall right-arm quick with a high arm action, Avesh Khan made his name through two Under-19 World Cups and graduated to the senior level after impressing with his variations, seam movement, and slower deliveries. ",
+    "input": {}
+  },
+  {
+    "name": "Riyan Parag",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Atharva Taide",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Dhruv Jurel",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Keshav Maharaj",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "A left-arm spinner from Northwood Boys High, the alma mater of Shaun Pollock, Keshav Maharaj emerged at a time when South Africa began to take spin seriously. For several seasons in the mid 2010s, spinners were among the leading wicket-takers in South Africa's first-class competition. Maharaj was among them in the 2014-15 and 2015-16 seasons and was rewarded with an international call-up the following summer.",
+    "input": {}
+  },
+  {
+    "name": "Trent Boult",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Trent Boult",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Keshav Maharaj",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "A left-arm spinner from Northwood Boys High, the alma mater of Shaun Pollock, Keshav Maharaj emerged at a time when South Africa began to take spin seriously. For several seasons in the mid 2010s, spinners were among the leading wicket-takers in South Africa's first-class competition. Maharaj was among them in the 2014-15 and 2015-16 seasons and was rewarded with an international call-up the following summer.",
+    "input": {}
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "team": "RR",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "team": "RR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Opening Batter",
+    "input": {}
+  },
+  {
+    "name": "Ishan Kishan†",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Akash Deep",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Akash Deep's is the ideal story of how years of toil gets you a dream Test debut where Rahul Dravid hands you the cap, and in the first hour of the game, you run through the opposition's top order.",
+    "input": {}
+  },
+  {
+    "name": "Harpreet Brar",
+    "team": "PBKS",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Hardik Pandya(c)",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Romario Shepherd",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowling Allrounder",
+    "description": "A bowling allrounder, Romario Shepherd started for Guyana in domestic cricket with the List A format in 2016 and then first-class in 2017. But his hard-hitting batting as a finisher has instead helped him become a T20 specialist.",
+    "input": {}
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Dinesh Karthik†",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Not many would forget the sight of Dinesh Karthik in India colours, horizontal on the ground, as he stumped Michael Vaughan in 2004. It was his first dismissal as a wicketkeeper for India, but his international career never really took off. Around the time he began churning out consistent runs in domestic cricket, India had MS Dhoni at the helm and behind the stumps, so there was very little Karthik could do. A man who was an integral part of a Test series victory over England in 2007, who showed he could open the batting in spicy conditions, just could not capitalise on his second chances. ",
+    "input": {}
+  },
+  {
+    "name": "Reece Topley",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A left-arm seamer with a fearsome yorker but a chequered injury history, Reece Topley's career was in peril before his 25th birthday as he suffered a series of stress fractures that left him wondering whether he would ever be able to play again.",
+    "input": {}
+  },
+  {
+    "name": "Will Jacks",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Saurav Chauhan",
+    "team": "RCB",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Gerald Coetzee",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Kane Williamson",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Mahipal Lomror",
+    "team": "RCB",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Born and brought up in Rajasthan, Mahipal Lomror started as a specialist batsman and later turned into an allrounder, who could bowl left-arm spin. Lomror is an aggressive batsman who fearlessly goes for the big shots, much like how his role model Adam Gilchrist used to. ",
+    "input": {}
+  },
+  {
+    "name": "Shreyas Gopal",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Rohit Sharma",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Tilak Varma",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Mohammad Nabi",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Mohammad Nabi hails from a well-to-do family that moved to Peshawar in Pakistan, seeking a safe haven from the Soviet War in Afghanistan. An efficient allrounder - a strong middle-order batsman who can bowl flighted offspin - Nabi's rise, like Afghanistan's, has been staggering. He has been at the centre of the side since their time in the ICC's World Cricket League Division Five, from where Afghanistan began their rise to the international stage.",
+    "input": {}
+  },
+  {
+    "name": "Will Jacks",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Akash Madhwal",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium, Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Quinton de Kock",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Arshad Khan",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Yash Thakur",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Vaibhav Arora",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Krunal Pandya",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Angkrish Raghuvanshi",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Top order Batter",
+    "description": "Angkrish Raghuvanshi, the tall, right-hand top-order batter, was India's highest run-getter at the 2022 Under-19 World Cup in the Caribbean, which India won. Raghuvanshi finished fourth on the overall scorers' list with 278 runs from six innings, though he recorded a two-ball duck against England in the final.",
+    "input": {}
+  },
+  {
+    "name": "Akash Deep",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Akash Deep's is the ideal story of how years of toil gets you a dream Test debut where Rahul Dravid hands you the cap, and in the first hour of the game, you run through the opposition's top order.",
+    "input": {}
+  },
+  {
+    "name": "Arshad Khan",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Shamar Joseph",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "The first time was a surprise, and the second a shock. Five wickets in Adelaide, and seven more in Brisbane, with a badly injured toe, to bowl West Indies to their first Test win in Australia in nearly 27 years. Shamar Joseph did all this in his debut series on the Australia tour of 2023-24.",
+    "input": {}
+  },
+  {
+    "name": "Nicholas Pooran",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "description": "Ravi Bishnoi is a modern-day legspinner who likes to trouble batters with his fast legbreaks, sliders and googlies instead of deceiving them with flight, drift and dip.",
+    "input": {}
+  },
+  {
+    "name": "Krunal Pandya",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Marcus Stoinis",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "KL Rahul(c)†",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Deepak Hooda",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Ayush Badoni",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Mohsin Khan",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Lockie Ferguson",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Fiercely quick right-arm fast bowler Lockie Ferguson made an impact at the 2019 ODI World Cup in England with his bruising pace and bounce, taking 21 wickets at under 20 runs apiece and an economy rate of 4.88 - the second most wickets in the tournament. ",
+    "input": {}
+  },
+  {
+    "name": "Jitesh Sharma",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Vidwath Kaverappa",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Rahul Chahar",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Swapnil Singh",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "Swapnil Singh's career has been a rollercoaster. The left-arm-spin-bowling allrounder was part of India's 25 probables for the 2008 Under-19 World Cup, but ultimately did not make the squad for Malaysia. However, he made his first-class debut for Baroda at the age of 14 years and 355 days. Over the next ten years, he played just 76 domestic matches, of which 31 came during the 2014-15 and 2015-16 seasons. Swapnil claimed 6 for 19, the second-best bowling figures in the Syed Mushtaq Ali T20 tournament, and was later bought for INR 10 lakhs by the erstwhile Kings XI Punjab (now Punjab Kings) at the 2016 IPL auction. Under Glenn Maxwell's captaincy at PBKS, he made his IPL debut, with a maiden wicket of MS Dhoni. Later, he was with Lucknow Super Giants during IPL 2023, while in IPL 2024, Swapnil played six league games with his new team Royal Challengers Bengaluru. His tidy bowling helped RCB win their last six matches to qualify for the playoffs. Domestically, Swapnil has moved from Baroda to Uttarakhand.\nESPNcricinfo staff",
+    "input": {}
+  },
+  {
+    "name": "Jonny Bairstow†",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Rahul Chahar",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Swapnil Singh",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "Swapnil Singh's career has been a rollercoaster. The left-arm-spin-bowling allrounder was part of India's 25 probables for the 2008 Under-19 World Cup, but ultimately did not make the squad for Malaysia. However, he made his first-class debut for Baroda at the age of 14 years and 355 days. Over the next ten years, he played just 76 domestic matches, of which 31 came during the 2014-15 and 2015-16 seasons. Swapnil claimed 6 for 19, the second-best bowling figures in the Syed Mushtaq Ali T20 tournament, and was later bought for INR 10 lakhs by the erstwhile Kings XI Punjab (now Punjab Kings) at the 2016 IPL auction. Under Glenn Maxwell's captaincy at PBKS, he made his IPL debut, with a maiden wicket of MS Dhoni. Later, he was with Lucknow Super Giants during IPL 2023, while in IPL 2024, Swapnil played six league games with his new team Royal Challengers Bengaluru. His tidy bowling helped RCB win their last six matches to qualify for the playoffs. Domestically, Swapnil has moved from Baroda to Uttarakhand.\nESPNcricinfo staff",
+    "input": {}
+  },
+  {
+    "name": "Karn Sharma",
+    "team": "RCB",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "description": "After Praveen Kumar and Bhuvneshwar Kumar, legspinner Karn Sharma became the third cricketer to hit the headlines from the small western Uttar Pradesh town of Meerut when he bagged a Rs 3.75 crore from Sunrisers Hyderabad in the 2014 IPL auction. It was the highest amount earned by a domestic uncapped player in the auction, and was reward for a solid season with Sunrisers in 2013, when he grabbed 11 wickets in 13 matches at an economy rate of 6.60. He formed a potent combination with India legspinner Amit Mishra as Sunrisers beat expectations to reach the semi-finals in their first season.",
+    "input": {}
+  },
+  {
+    "name": "Spencer Johnson",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "description": "Spencer Johnson's rise through the game has been remarkable. He only made his domestic T20 debut in early 2023, at the age of 27, and has now become a BBL force, has Australian caps under his belt and a million-dollar IPL deal.",
+    "input": {}
+  },
+  {
+    "name": "Naveen-ul-Haq",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "A feisty fast bowler with a wide range of slower-ball variations, Naveen-ul-Haq first rose to prominence as a death-overs specialist, but soon developed his new-ball skills to become a useful weapon across phases. Like many of his compatriots, he is an in-demand commodity in franchise leagues across the world.\nBorn in Kabul, Naveen fled with his family to Pakistan in his early years, and began playing tape-ball cricket there. When they returned to Afghanistan, he began playing with a leather ball for the first time. He was so impressive for Afghanistan's Under-16 and Under-19 teams that his first professional match at the senior level was his ODI debut against Bangladesh, just two days after he turned 17.\nNaveen made seven sporadic ODI appearances from his debut to January 2021, and a year later he took a break from the format to focus on the 2022 T20 World Cup. In the meantime, he became an integral part of Afghanistan's T20I side, either side of captaining Afghanistan to a fourth-place finish at the 2018 Under-19 World Cup.\nStints at the BPL, CPL, LPL and the T20 Blast followed as he began to build his reputation. In 2023, Naveen announced he would retire from ODIs after the World Cup that year. He took eight wickets as Afghanistan put in an impressive display in the competition, finishing sixth on the table.\nBy then, he had made his IPL debut as well, taking 11 wickets in his first season for Lucknow Super Giants, and was also in the news for an on-field altercation with Virat Kohli.\nTowards the end of 2024, Naveen along with team-mates Fazalhaq Farooqi and Mujeeb-ur-Rahman got in trouble with the Afghanistan Cricket Board after they asked to be released from their central contracts so they could sign up for more franchise leagues. The board responded by revoking the players' NOCs and denying them further NOCs for the next two years. The situation was resolved with the board agreeing to grant them a limited number of NOCs and slapping them with financial penalties.\nNaveen returned 14 wickets in IPL 2024, but it was in the T20 World Cup that year that he really shone. Naveen and Farooqi combined to take the spotlight away from Afghanistan's spinners as they made the semi-finals of a World Cup for the first time. Naveen finished the tournament with 13 wickets, and his three-wicket burst was one of the highlights of Afghanistan's first-ever victory over Australia in any format.",
+    "input": {}
+  },
+  {
+    "name": "Spencer Johnson",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "description": "Spencer Johnson's rise through the game has been remarkable. He only made his domestic T20 debut in early 2023, at the age of 27, and has now become a BBL force, has Australian caps under his belt and a million-dollar IPL deal.",
+    "input": {}
+  },
+  {
+    "name": "BR Sharath†",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Mayank Yadav",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "An express bowler from Delhi, Mayank Yadav had played just two List A games when he was picked by Lucknow Super Giants (LSG) ahead of IPL 2022. He did not play a match in the first season and was ruled out of the next season with a torn hamstring.",
+    "input": {}
+  },
+  {
+    "name": "Manimaran Siddharth",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Khaleel Ahmed",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Mukesh Kumar",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Gulbadin Naib",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "description": "Gulbadin Naib's first love in sport was amateur bodybuilding, not cricket. When he eventually did take the game up, however, he progressed quickly through Afghanistan's age-group sides as a batting allrounder and was the youngest member of the team that won the Division Five tournament in 2008 - the first stepping stone to the full world stage.",
+    "input": {}
+  },
+  {
+    "name": "Rishabh Pant(c)†",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Axar Patel",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Ishant Sharma",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "With a physique reminiscent of a young Javagal Srinath, tall and wiry Ishant Sharma shot into prominence during the 2007-08 Test series in Australia, where he moved the ball both ways at pace and delivered a searching spell to Ricky Ponting in Perth that became the stuff of cricket lore. ",
+    "input": {}
+  },
+  {
+    "name": "Shai Hope",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Shai Hope made his Test debut as a 21-year-old, having played just 14 first-class matches at the time. But few in the Caribbean doubted his talent as a batsman. Clive Lloyd gave him his West Indies cap, and coach Stuart Law insisted that he only needed one innings to get going. The world eventually got to know why the boy from Barbados was rated so highly when he became the first player, in 534 first-class matches, to score a hundred in each innings at Headingley.",
+    "input": {}
+  },
+  {
+    "name": "Ravichandran Ashwin",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Ravichandran Ashwin",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Rasikh Salam",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Rasikh Salam",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Sandeep Sharma",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Tristan Stubbs",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Jake Fraser-McGurk",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Batter",
+    "description": "Jake Fraser-McGurk is one of the most explosive batting talents to develop in Australia since David Warner. He burst onto the scene in domestic cricket as a 17-year-old scoring half-centuries on both his first-class and List A debuts for Victoria in November 2019. He was part of Australia's Under-19 World Cup team in South Africa 2020 but had to return home mid-tournament after being scratched by a monkey at a nature reserve on a day off. ",
+    "input": {}
+  },
+  {
+    "name": "Abishek Porel",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Donovan Ferreira",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Axar Patel",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Jos Buttler",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Shubham Dubey",
+    "team": "RR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Sameer Rizvi",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Shivam Dube",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "A tall pace-bowling allrounder from the suburbs of Mumbai who started in the city's robust school cricket circuit, Shivam Dube shot to limelight in domestic cricket and the IPL with his almost unparallel six-hitting ability, especially against spin.",
+    "input": {}
+  },
+  {
+    "name": "Mitchell Marsh",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Daryl Mitchell",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Daryl Mitchell was called into New Zealand's Test team in late 2019 as a replacement for the injured Colin de Grandhomme. He impressed, making an assured 73 against England in his first innings and bowling with good control on a sluggish surface at his home ground, Hamilton. ",
+    "input": {}
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Top order Batter",
+    "description": "While he might not turn heads like many of his glitzier batting colleagues, Ajinkya Rahane has been a dependable middle-order batter for India, particularly overseas, and will always be remembered for leading the side to a spectacular Test series win in Australia in 2020-21.",
+    "input": {}
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Deepak Chahar",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "MS Dhoni†",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Ruturaj Gaikwad(c)",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Tushar Deshpande",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Prithvi Shaw",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Opening Batter",
+    "input": {}
+  },
+  {
+    "name": "Matheesha Pathirana",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Rachin Ravindra",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batting Allrounder",
+    "description": "A dynamic batter, who can slot in at the top as well as in the middle order, and bowl left-arm fingerspin, Rachin Ravindra was earmarked to become a future batting leader for New Zealand right from his Under-19 days.",
+    "input": {}
+  },
+  {
+    "name": "Anrich Nortje",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Mitchell Marsh",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Mustafizur Rahman is a left-arm pace bowler who came to Dhaka to try out for a fast-bowling camp in 2012, after he had impressed in an Under-17 tournament in Satkhira, some 300km from Dhaka. He got admitted to the BCB's pace foundation and soon caught the coaches' attention to make the Bangladesh Under-19 side for the 2014 World Cup. ",
+    "input": {}
+  },
+  {
+    "name": "Ramandeep Singh",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Ramandeep Singh",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Dushmantha Chameera",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Tall, slim and slippery, Dushmantha Chameera arrived at NCC in 2012, and was quickly marked out as a bowler for the future. First among his virtues is pace, generated from a slightly round-arm action that sacrifices movement. Capable of consistently hitting speeds of over 140 kph, coaches believe he had become the quickest bowler in the country by 23. He had played only a handful of games in his first two seasons, but came into his own in NCC's 2013-14 championship run, claiming 32 first-class cricket at 21.18.",
+    "input": {}
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Shardul Thakur",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Moeen Ali",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Moeen Ali was tipped for the top long before he won his Test debut at the start of 2014. But, after building a reputation as an elegant batter, it was his offspin bowling that earned him the call-up when England were left reeling from the surprise retirement of Graeme Swann.",
+    "input": {}
+  },
+  {
+    "name": "Matt Henry",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A slippery fast bowler, Matt Henry almost didn't play for New Zealand, as he underwent a major back surgery in 2012. Two years later, though, he was called up as cover during the ODI series against India, and thanks to a niggle to fellow injury-prone Hamish Bennett, Henry put the black cap on and registered the third-best figures for a New Zealand debutant in ODIs, claiming four wickets to seal New Zealand's 4-0 series triumph.",
+    "input": {}
+  },
+  {
+    "name": "Sumit Kumar",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Sumit Kumar",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "David Warner",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Opening Batter",
+    "description": "David Warner's extraordinary batting feats in all three formats for Australia will forever be overshadowed by his role as the chief protagonist of the Newlands ball-tampering scandal of 2018 and his place as a central figure in Australian cricket's ensuing cultural crisis.",
+    "input": {}
+  },
+  {
+    "name": "Ricky Bhui",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Top order Batter",
+    "description": "Ricky Bhui began his career with seven 30-plus scores, including three half-centuries, in his first nine innings at the Under-19 level in 2013. He was integrated into Andhra's Ranji Trophy side the same year.",
+    "input": {}
+  },
+  {
+    "name": "Yudhvir Singh",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Yudhvir Singh",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Ashton Turner",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "A tall and powerful right-hander, Ashton Turner clears the rope with deft placement, is a brilliant runner between the wickets, and has made a habit of chasing unlikely totals as a middle-order specialist in the BBL. ",
+    "input": {}
+  },
+  {
+    "name": "Arshin Kulkarni",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "Arshin Kulkarni idolised former South Africa allrounder Jacques Kallis growing up after switching to seam bowling from legspin - with which he had a hat-trick to show - on the advice of his coaches. He was only six years old when his grandmother enrolled him at a cricket academy in Solapur so that he wouldn't be bored after school. His grandmother, an avid cricket buff, supported him fully, including travelling to and from Pune, where he moved to in 2017 to further his cricketing pursuits.",
+    "input": {}
+  },
+  {
+    "name": "Abdul Samad",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Anuj Rawat",
+    "team": "RCB",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Travis Head",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Heinrich Klaasen†",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "At the time of his India debut in 2012, Bhuvneshwar Kumar seemed the answer to the side's fast-bowling scarcity; though middling in pace, he produced swing both ways and had a devastating inswinger. In his first T20I over, he bowled Nasir Jamshed; with his first ODI delivery, he bowled Mohammad Hafeez; and in his first Test series he played a part in India's first whitewash win in a four-Test series, against Australia in 2013. ",
+    "input": {}
+  },
+  {
+    "name": "Mayank Markande",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Abhishek Sharma",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Shahbaz Ahmed",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Shahbaz Ahmed was born in Mewat, Haryana, the most backward district in India according to a government report in 2018. He started as a batter, playing local cricket in and around Mewat, but the opportunities were limited. In 2015, he moved to Kolkata to try his luck in club cricket. That is where he developed his left-arm spin and transformed himself into an allrounder.",
+    "input": {}
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "T Natarajan",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Aiden Markram",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "The first South Africa captain to win a World Cup, albeit at age-group level, Aiden Markram announced himself as champion material early. He led South Africa's Under-19s to World Cup glory in 2014 and was also their leading run-scorer and third overall. It took him another three years to break into the senior side, but when he did, he made an impact right away with 97, 143 and 125 in his first three Tests, at home against Bangladesh and Zimbabwe. ",
+    "input": {}
+  },
+  {
+    "name": "Abhishek Sharma",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Pat Cummins",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Abhinav Manohar",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Matthew Wade†",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "It has been a career of reinvention for Matthew Wade, who went from Test wicketkeeper to specialist middle-order batter to T20I World Cup-winning wicketkeeper-finisher, via a prolific run in domestic cricket when it appeared his international days were over.",
+    "input": {}
+  },
+  {
+    "name": "Pat Cummins(c)",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Nitish Kumar Reddy",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Nitish Kumar Reddy",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Anmolpreet Singh",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "input": {}
+  },
+  {
+    "name": "Tim David",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Nehal Wadhera",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Piyush Chawla",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowling Allrounder",
+    "description": "Piyush Chawla is one for early impact. As a 15-year-old he represented India Under-19 and Uttar Pradesh U-22. Before he made his first-class debut, at 17, he had already bowled Sachin Tendulkar with a googly in a Challenger Series match. In his first first-class season, he took 35 wickets and scored 224 runs to help UP win their first Ranji Trophy. In his teens he played two Test matches too, against England and South Africa. He took three wickets on ODI debut in Bangladesh in 2007, and 14 during India's tour of Ireland and England the same year, often troubling Kevin Pietersen with the googlies and the straighter ones.",
+    "input": {}
+  },
+  {
+    "name": "Naman Dhir",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Anshul Kamboj",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Anshul Kamboj",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Piyush Chawla",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowling Allrounder",
+    "description": "Piyush Chawla is one for early impact. As a 15-year-old he represented India Under-19 and Uttar Pradesh U-22. Before he made his first-class debut, at 17, he had already bowled Sachin Tendulkar with a googly in a Challenger Series match. In his first first-class season, he took 35 wickets and scored 224 runs to help UP win their first Ranji Trophy. In his teens he played two Test matches too, against England and South Africa. He took three wickets on ODI debut in Bangladesh in 2007, and 14 during India's tour of Ireland and England the same year, often troubling Kevin Pietersen with the googlies and the straighter ones.",
+    "input": {}
+  },
+  {
+    "name": "Nuwan Thushara",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Nitish Rana",
+    "team": "KKR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium, Right arm Offbreak, Legbreak",
+    "playingRole": "Middle order Batter",
+    "input": {}
+  },
+  {
+    "name": "Dewald Brevis",
+    "team": "MI",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Nandre Burger",
+    "team": "RR",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "An accidental cricketer, who had ambitions of playing on the ATP tour and then becoming a psychologist, Nandre Burger is an all-format left-arm quick, who swings the ball at pace. ",
+    "input": {}
+  },
+  {
+    "name": "Kwena Maphaka",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Vijayakanth Viyaskanth",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "description": "Legspinner Vijaykanth Viyaskanth first rose to prominence in December 2020, when he became the youngest player at 18 years and 364 days to feature in the Lanka Premier League for Jaffna Stallions. In that tournament, he also became the first born-and-bred player from Jaffna, in Sri Lanka's northern tip and once the epicentre of a three-decade-long civil war, to appear in an internationally televised game.",
+    "input": {}
+  },
+  {
+    "name": "Krishnappa Gowtham",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "description": "An offspinning allrounder who was largely seen as a T20 specialist, K Gowtham changed his narrative in 2016 when he broke back into Karnataka's Ranji Trophy side and took 18 wickets in his first three matches. His consistency earned him a place with the India A team in 2017 and a gigantic pay-day in the 2018 IPL auction when he was bought by Rajasthan Royals for INR 6.2 crore (USD 968000 approx) Amid those highlights was a bit of controversy as well when he took leave from the Duleep Trophy in 2017, citing illness, and was found a few days a later playing in the Karnataka Premier League. The BCCI pulled him out of the squad to play New Zealand A for actions that were a \"gross insult to the system\".",
+    "input": {}
+  },
+  {
+    "name": "Kumar Kushagra",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Lizaad Williams",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Lizaad Williams",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "KL Rahul(c)",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Simarjeet Singh",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Quinton de Kock†",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Mitchell Santner",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Mitchell Santner",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Abishek Porel†",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Axar Patel(c)",
+    "team": "DC",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Lalit Yadav",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Lalit Yadav",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Jhye Richardson",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "A small man with a whippy, fast arm action and an ability to swing the ball at speeds of 140kph, Jhye Richardson provides a different trajectory in all three formats but his international career has been badly impacted by injury. An impressive start was halted by a dislocated shoulder during an ODI against Pakistan in the UAE during 2019 and ruled him out of World Cup and Ashes contention with further injury setbacks hitting his progress over the following years.",
+    "input": {}
+  },
+  {
+    "name": "Washington Sundar",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Jhye Richardson",
+    "team": "DC",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "A small man with a whippy, fast arm action and an ability to swing the ball at speeds of 140kph, Jhye Richardson provides a different trajectory in all three formats but his international career has been badly impacted by injury. An impressive start was halted by a dislocated shoulder during an ODI against Pakistan in the UAE during 2019 and ruled him out of World Cup and Ashes contention with further injury setbacks hitting his progress over the following years.",
+    "input": {}
+  },
+  {
+    "name": "Washington Sundar",
+    "team": "SRH",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Kartik Tyagi",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Shams Mulani",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Luke Wood",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Luke Wood, a left-arm fast bowler with the priceless ability to swing the ball back into right-handers, joined Lancashire at the end of the 2019 season in search of a more regular first-team place after spending time in and out of the Nottinghamshire side. ",
+    "input": {}
+  },
+  {
+    "name": "Himanshu Sharma",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Richard Gleeson",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Richard Gleeson made his debut in international cricket at the age of 34 - and dismissed Rohit Sharma, Virat Kohli and Rishabh Pant within his first eight balls. It was the culmination of an extraordinary rise through the ranks: he was a late-bloomer, who made his first professional appearance aged 27 as a trialist at Northamptonshire, and had nearly quit the game altogether the previous winter due to injury.",
+    "input": {}
+  },
+  {
+    "name": "Richard Gleeson",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Richard Gleeson made his debut in international cricket at the age of 34 - and dismissed Rohit Sharma, Virat Kohli and Rishabh Pant within his first eight balls. It was the culmination of an extraordinary rise through the ranks: he was a late-bloomer, who made his first professional appearance aged 27 as a trialist at Northamptonshire, and had nearly quit the game altogether the previous winter due to injury.",
+    "input": {}
+  },
+  {
+    "name": "Nathan Ellis",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Nathan Ellis has developed into one of Australia's leading T20 bowlers in a relatively short period of time. He is a short, skiddy quick with an excellent yorker and superb change of pace.",
+    "input": {}
+  },
+  {
+    "name": "Tom Kohler-Cadmore",
+    "team": "RR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Tom Kohler-Cadmore had made a name for himself as a Wisden Schoolboy Cricketer of the Year and one of the most-talented young batsmen in the county game - but it was a court case involving a former team-mate that brought him unwanted attention from a wider audience. Revelations during the trial of Alex Hepburn about sexist messages exchanged on a WhatsApp group led to Kohler-Cadmore and Joe Clarke being stood down from Lions duty and threatened to overshadow the start of a promising career.",
+    "input": {}
+  },
+  {
+    "name": "Mayank Agarawal",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "A prolific opening batsman since his Under-13 days with Bishop Cotton Boys' School, Bangalore, Mayank Agarwal modelled his style of batting on Virender Sehwag. Agarwal struck 432 runs at an average of 54 in five matches in the Under-19 Cooch Behar Trophy in 2008-09 and hit a match-winning 160 for India Under-19s, in a one-dayer against Australia Under-19s in Hobart in 2009.",
+    "input": {}
+  },
+  {
+    "name": "Umran Malik",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Umran Malik burst onto the scene in 2021 when he clocked 150kph for Sunrisers Hyderabad on his IPL debut. A product of tennis-ball cricket, Malik did not even know there existed shoes with spikes for fast bowlers until he went for his first Under-19 trial. He had played just one List A match and one T20 when he joined SRH as a short-term Covid replacement for T Natarajan. He got his chance only after SRH were out of the race for the playoffs. He made an immediate impact and, despite playing just three games that season, was retained by SRH ahead of the IPL 2022 mega auction. ",
+    "input": {}
+  },
+  {
+    "name": "Marco Jansen",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowling Allrounder",
+    "description": "At 2.06 metres tall, Marco Jansen's height immediately marks him out as a fast bowler but he began his cricket career as a batter. Jansen's first coach was his father, Koos, who trained both him and his twin brother Duan in their home town of Potchefstroom. At the age of 17, the pair were picked to bowl to the touring Indian side in the nets and impressed the likes of Virat Kohli with his pace and accuracy. ",
+    "input": {}
+  },
+  {
+    "name": "Rishi Dhawan",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "Rishi Dhawan graduated from being an opening batsman in junior cricket to a seam-bowling allrounder, who largely relies on slow variations and cutters. His domestic performances for Himachal Pradesh, a bulk of which came in seamer-friendly conditions in Dharamsala, earned him an ODI debut during the limited-overs series in Australia in January 2016.",
+    "input": {}
+  },
+  {
+    "name": "Shams Mulani",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Rahul Tripathi",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Top order Batter",
+    "input": {}
+  },
+  {
+    "name": "Shivam Singh",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Jitesh Sharma(c)†",
+    "team": "PBKS",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Sanvir Singh",
+    "team": "SRH",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Mukesh Choudhary",
+    "team": "CSK",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Maheesh Theekshana",
+    "team": "CSK",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Suyash Sharma",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Arjun Tendulkar",
+    "team": "MI",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "input": {}
+  },
+  {
+    "name": "Manav Suthar",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Josh Little",
+    "team": "GT",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A bustling left-arm seamer from Dublin, Josh Little made an immediate impression on ODI debut against England in 2019 when he took 4 for 45 - including the wicket of Eoin Morgan with a sharp bouncer - to leave the world's No. 1-ranked side struggling in an ultimately successful run chase.",
+    "input": {}
+  },
+  {
+    "name": "Manav Suthar",
+    "team": "GT",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Amit Mishra",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "description": "When he burst onto the scene in the early 2000s, Amit Mishra impressed with his classical, attacking legspin, relying mostly on flight and a big legbreak, while surprising batsmen with the odd googly. However, with two giant spinners - Anil Kumble and Harbhajan Singh - at the peak of their powers, there wasn't a place available for him in India's squad.",
+    "input": {}
+  },
+  {
+    "name": "Suyash Prabhudessai",
+    "team": "RCB",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "input": {}
+  },
+  {
+    "name": "Manish Pandey",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Top order Batter",
+    "description": "Manish Pandey will always be remembered as the first Indian to score a century in the IPL. In one night, the 19-year-old went from being Karnataka's next big Ranji hope to entering the record books as he hit his way to the highest Twenty20 score by an Indian. That century also meant he would not have to carry out his intention of following his father into the army if he did not make it as a professional cricketer.",
+    "input": {}
+  },
+  {
+    "name": "KL Rahul",
+    "team": "LSG",
+    "battingStyle": "Right hand Bat",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Nicholas Pooran(c)",
+    "team": "LSG",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  },
+  {
+    "name": "Rahmanullah Gurbaz†",
+    "team": "KKR",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "input": {}
+  }
+]
